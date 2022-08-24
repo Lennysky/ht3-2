@@ -1,2 +1,2 @@
-# ht3-2
-Second attempt of the home task 3
+# ht3
+Successfully and easy done home task 3
